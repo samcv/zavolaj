@@ -3,6 +3,7 @@
     "version" : "*",
     "description" : "Call native libraries",
     "depends" : [ ],
+    "license": "Artistic-2.0",
     "repo-type" : "git",
     "source-url" : "git://github.com/jnthn/zavolaj.git"
 }
